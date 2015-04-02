@@ -1,5 +1,7 @@
 # Don’t commit the following directories created by pub.
 .buildlog
+.DS_Store
+.idea
 .pub/
 build/
 packages
@@ -12,3 +14,4 @@ packages
 
 # Include when developing application packages.
 pubspec.lock
+
